@@ -9,7 +9,7 @@ This repository contains Python code for performing a side-channel attack on AES
 - **Dataset Handling**: Uses the ASCAD dataset (zero desynchronization).  
 - **Preprocessing**: Normalization and feature extraction from power traces.  
 - **Deep Learning Model**: A CNN-based architecture designed for key extraction.  
-- **Training & Evaluation**: ITrained model with the dataset. 
+- **Training & Evaluation**: Trained model with the dataset. 
 - **Visualization**: Attack success rates, and key recovery analysis.  
 
 ## **Requirements**  
